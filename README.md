@@ -7,4 +7,4 @@ Hello, I'm currently an undergrad student majoring in Computer Engineering at Un
 - looking to eventually code a progrm that allows you to install music onto and iPhone
   from your PC :)
 - pronouns: he/him
-- soundcloud ;) [here](https://soundcloud.com/prodbybrxdy),
+- soundcloud [;)](https://soundcloud.com/prodbybrxdy),
