@@ -1,4 +1,4 @@
-### side stuff i work on
+### about brad
 hello :p
 
 - working on mainly side projects right now, aiming for certs😎
