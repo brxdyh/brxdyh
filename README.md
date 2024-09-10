@@ -14,7 +14,7 @@ hello :p
 
 <p align="center">
 <a href="https://open.spotify.com/user/789b11?si=f3e2120d56294489" target="_blank">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=789b11&cover_image=true&theme=novatorem&show_offline=false&background_color=d4b996&interchange=false&bar_color=53b14f&bar_color_cover=true" width="50%" align="left">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=789b11&cover_image=true&theme=novatorem&show_offline=false&background_color=d4b996&interchange=false&bar_color=53b14f&bar_color_cover=true" width="50%" align="left">
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=brxdyh&show_icons=true&theme=bear" width="40%" align="right">
 </p>
